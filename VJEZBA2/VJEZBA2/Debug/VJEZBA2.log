@@ -1,0 +1,7 @@
+﻿  funkcije.cpp
+C:\Users\840 g3\frane0108-vjezbe\VJEZBA2\VJEZBA2\funkcije.cpp(65,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\840 g3\frane0108-vjezbe\VJEZBA2\VJEZBA2\main.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\840 g3\frane0108-vjezbe\VJEZBA2\VJEZBA2\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  VJEZBA2.vcxproj -> C:\Users\840 g3\frane0108-vjezbe\VJEZBA2\Debug\VJEZBA2.exe

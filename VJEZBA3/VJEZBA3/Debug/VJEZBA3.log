@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\840 g3\frane0108-vjezbe\VJEZBA3\VJEZBA3\main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\840 g3\frane0108-vjezbe\VJEZBA3\VJEZBA3\main.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VJEZBA3.vcxproj -> C:\Users\840 g3\frane0108-vjezbe\VJEZBA3\Debug\VJEZBA3.exe
